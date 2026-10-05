@@ -1,0 +1,4 @@
+movies.duckdb
+pipeline.log
+__pycache__/
+*.pyc
