@@ -92,5 +92,3 @@ pytest test_movie.py
 - Cloud deployment (e.g. BigQuery or Postgres) to support multiple users
 - Orchestration with Airflow for scheduled runs
 - More granular test coverage
-
-
